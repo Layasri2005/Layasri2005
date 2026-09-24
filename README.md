@@ -2,13 +2,13 @@ Hi 👋, I'm Laya Sri
 
 💻 Full Stack Developer | 🧩 DSA Enthusiast
 
-🚀 About Me
+ About Me
 
-- 🌱 Currently learning and building Full Stack projects
-- 🧠 Practicing Data Structures & Algorithms
-- ☕ Working with Java
-- 🐍 Familiar with Python
-- 💡 Interested in building practical and useful applications
+- Currently learning and building Full Stack projects
+-  Practicing Data Structures & Algorithms
+-  Working with Java
+-  Familiar with Python
+- Interested in building practical and useful applications
 
 🛠️ Skills
 
